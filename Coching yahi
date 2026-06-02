@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ABC Coaching Centre</title>
+
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+body{
+    background:#f4f4f4;
+}
+
+.banner{
+    background:linear-gradient(to right,#004aad,#0077ff);
+    color:white;
+    text-align:center;
+    padding:60px 20px;
+}
+
+.banner h1{
+    font-size:50px;
+    margin-bottom:10px;
+}
+
+.banner h2{
+    font-size:25px;
+    margin-bottom:20px;
+}
+
+.info{
+    max-width:800px;
+    margin:auto;
+    background:white;
+    color:#333;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+.info p{
+    font-size:20px;
+    margin:12px 0;
+}
+
+.admission{
+    margin-top:20px;
+    background:red;
+    color:white;
+    display:inline-block;
+    padding:12px 25px;
+    border-radius:5px;
+    font-size:22px;
+    font-weight:bold;
+}
+
+.contact{
+    margin-top:20px;
+    font-size:22px;
+    font-weight:bold;
+}
+
+footer{
+    margin-top:30px;
+    text-align:center;
+    padding:15px;
+    background:#222;
+    color:white;
+}
+</style>
+
+</head>
+<body>
+
+<div class="banner">
+    <h1>ABC Coaching Centre</h1>
+    <h2>Quality Education for a Better Future</h2>
+</div>
+
+<div class="info">
+
+    <p>📚 Classes: 6th to 12th</p>
+
+    <p>📝 Board Exam Preparation</p>
+
+    <p>🎯 Competitive Exam Guidance</p>
+
+    <p>👨‍🏫 Experienced Teachers</p>
+
+    <p>💻 Smart Classes & Regular Tests</p>
+
+    <p>📍 Address: Darbhanga, Bihar</p>
+
+    <div class="contact">
+        📞 Contact: +91 XXXXX XXXXX
+    </div>
+
+    <div class="admission">
+        Admissions Open
+    </div>
+
+</div>
+
+<footer>
+    © 2026 ABC Coaching Centre | All Rights Reserved
+</footer>
+
+</body>
+</html>
